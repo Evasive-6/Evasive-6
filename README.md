@@ -1,48 +1,58 @@
-# 👋 Hey, I'm Albin
-
-💡 **Full-Stack Engineer** | ⚙️ **Tech Explorer** | 🧠 **Problem Solver**
-
-I’m passionate about building scalable web applications, taming complex algorithms, and crafting seamless user experiences. Whether it’s fine-tuning backend logic or engineering sleek UIs, I bridge design and code to deliver clean, robust solutions.
-
----
-
-## 🚀 Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-Responsive interfaces, context-based state, and component-driven architecture.
-
-**Backend**  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)  
-Efficient REST APIs, middleware orchestration, and scalable routing logic.
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-Clean and expressive code, algorithmic depth, and data-driven development.
-
-**Database & DevOps**  
-MongoDB · PostgreSQL · Docker · GitHub Actions
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Evasive-6.Evasive-6"/>
+<br/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&color=0F8BF7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Albin+Shiju;Software+Product+Engineer;Kalvium+%E2%80%93+LPU+(2024%E2%80%932028)" />
+  </a>
+</p>
 
 ---
 
-## 📂 Highlight Projects
 
 
+## 💻 Tech Stack:
 
-## 🧭 What Drives Me
-
-- Transforming ideas into systems that work—cleanly, intuitively, efficiently.  
-- Diving deep into algorithmic optimization and seamless API design.  
-- Constantly learning, improving, and embracing the craft of development.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,aws,gcp,react,git,py,tailwind,vscode,cpp,express,figma,github,md,mongodb,mysql,netlify,npm,postman,powershell,figma&theme=light" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats:
 
+
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=Evasive-6&theme=holi&hide_border=falseinclude_all_commits=true&count_private=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Evasive-6&theme=holi&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evasive-6&theme=holi&hide_border=false&layout=compact" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app">
+    <img src="https://github-profile-trophy.vercel.app/?username=Evasive-6&theme=date_night&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
+</p>
+
+---
+## 🌐 Connect with Me:
+
+<p align="center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-albin--codes-black?style=flat&logo=github)](https://github.com/Evasive-6/Evasive-6)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albin-shiju-b7b117361)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-0f0f0f?style=flat&logo=vercel)](https://your-portfolio.site)
+  
+</p>
+
+
 
 ---
-
-> _“Code isn’t just commands. It’s how we architect the invisible.”_
